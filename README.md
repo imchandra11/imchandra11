@@ -15,6 +15,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imchandra11)
+<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-prakash-16421b228/) 
 
 # 💻 Tech Stack
@@ -62,7 +63,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=imchandra11&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 300px; border-radius:10px"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 300px;  border-radius: 10px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=imchandra11&icon=0&color=0)](https://visitcount.itsvg.in)
