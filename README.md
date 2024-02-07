@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
--😎  Hi, I'm chandra prakash
+- 😎  Hi, I'm chandra prakash
 
 - 🔭 I’m currently working on **MERN stack**
 
