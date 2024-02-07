@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chandra Prakash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+
+# 💫 About Me:
+-😎  Hi, I'm chandra prakash
+
 - 🔭 I’m currently working on **MERN stack**
 
 - 🌱 I’m currently learning **react**
@@ -8,9 +12,6 @@
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **chandra385123@gmail.com**
-# 💫 About Me:
-Hi, I'm chandra prakash
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imchandra11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandra prakash) 
