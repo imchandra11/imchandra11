@@ -19,6 +19,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imchandra11)
 <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-prakash-16421b228/) 
+<br/>
+<a href="https://auth.geeksforgeeks.org/user/chandrazx2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="imchandra11" height="30" width="40" /></a>
 
 # 💻 Tech Stack
 
